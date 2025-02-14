@@ -1,4 +1,4 @@
-# :coin: Full Stack Bank :dollar:
+# :coin: Banco Digital :dollar:
 
 ![Preview](./screenshots/login.png)
 
